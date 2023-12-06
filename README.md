@@ -12,4 +12,6 @@ Eine Anleitung zur Installation der benötigten Jupyter-lab Umgebung (unter Wind
 * a 
 * b
 
-Lizenz???
+## Lizenz / Copyright
+
+Copyright (c) [[Markus Nölle](https://www.htw-berlin.de/hochschule/personen/person/?eid=9586). Der Python Code in diesem Repository steht unter der freien MIT Lizenz, während die Texte, das Layout und Design unter der freien  [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) Lizenz veröffentlicht wurden.
